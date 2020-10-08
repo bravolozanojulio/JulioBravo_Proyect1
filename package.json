@@ -1,0 +1,23 @@
+{
+  "name": "JulioBravo_proyect1",
+  "version": "1.0.0",
+  "description": "Este es el proyecto que iremos desarollando durante todo el primer trimestre, donde aprenderemos la programación orientada a objetos y el manejo de typescript.\r Actualmente tenemos 2 ejercicios básicos realizados.",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bravolozanojulio/JulioBravo_proyect1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bravolozanojulio/JulioBravo_proyect1/issues"
+  },
+  "homepage": "https://github.com/bravolozanojulio/JulioBravo_proyect1#readme"
+}
